@@ -70,7 +70,7 @@
     "latest-version": "^5.1.0",
     "lodash": "4.17.12",
     "node-machine-id": "^1.1.12",
-    "prettier": "^1.17.0",
+    "prettier": "^1.19.1",
     "react": "^16.9.0",
     "semver": "^6.3.0",
     "sort-keys": "^3.0.0",
